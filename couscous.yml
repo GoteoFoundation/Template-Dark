@@ -2,11 +2,11 @@ template:
     directory: .
 
 github:
-    user: CouscousPHP
-    repo: Template-Dark
+    user: GoteoFoundation
+    repo: Template-Goteo-Docs
 
 title: Couscous template
-subTitle: The dark template for Couscous.
+subTitle: The Goteo Documentation template for Couscous.
 
 # The left menu bar
 menu:
@@ -19,9 +19,9 @@ menu:
                     # You can use relative urls
                     relativeUrl: doc/faq.html
                 foo:
-                    text: Another link
+                    text: Goteo docs
                     # Or absolute urls
-                    absoluteUrl: https://example.com
+                    absoluteUrl: http://goteofoundation.github.io/goteo/
         other:
             name: Other topics
             items:

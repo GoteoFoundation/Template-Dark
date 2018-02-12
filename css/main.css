@@ -74,24 +74,17 @@ header.navbar {
 
 pre {
     padding: 0;
-    border-color: #3D5166;
-    background-color: #1D2B3A;
     border-radius: 4px;
     margin: 15px;
 }
 pre code {
     border: none;
-    background-color: #1D2B3A;
 }
 
 code {
     font-size: 85%;
     padding: 4px 4px 1px;
-    margin: 0 4px;
     border-radius: 3px;
-    color: #c5c8c6;
-    border: solid 1px #3D5166;
-    background-color: #1D2B3A;
     white-space: pre-wrap;
     white-space: -moz-pre-wrap;
     word-wrap: break-word;

@@ -1,9 +1,9 @@
 ---
 currentMenu: home
 ---
-# Couscous Dark template
+# Couscous Goteo Documentation Template
 
-![](screenshot.png)
+View the documentation here: http://goteofoundation.github.io/goteo/
 
 ## Usage
 
@@ -11,7 +11,7 @@ To use the template, set it up in your `couscous.yml` configuration file:
 
 ```yaml
 template:
-    url: https://github.com/CouscousPHP/Template-Dark
+    url: https://github.com/GoteoFoundation/Template-Goteo-Docs
 ```
 
 ## Configuration
